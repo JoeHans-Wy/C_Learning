@@ -1,4 +1,0 @@
-﻿  test_c_homework.c
-D:\code\test_c\test_c_251212\test_c_homework.c(5,2): warning C4013: “printf”未定义；假设外部返回 int
-test_c_homework.obj : error LNK2019: 无法解析的外部符号 printf，函数 main 中引用了该符号
-D:\code\test_c\test_c_251212\x64\Debug\test_c_251212.exe : fatal error LNK1120: 1 个无法解析的外部命令
