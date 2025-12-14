@@ -1,4 +1,0 @@
-﻿  test.c
-D:\code\test_c\test_c_251214\test.c(63,6): error C2371: “printf”: 重定义；不同的基类型
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdio.h(950,37): message : 参见“printf”的声明
-D:\code\test_c\test_c_251214\test.c(79,9): warning C4133: “函数”: 从“Stu *”到“const char *const ”的类型不兼容
