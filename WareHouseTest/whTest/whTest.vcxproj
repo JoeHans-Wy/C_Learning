@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="T1.cpp" />
+    <ClCompile Include="T1_1.cpp" />
     <ClCompile Include="T3.cpp" />
     <ClCompile Include="T2.cpp" />
   </ItemGroup>
