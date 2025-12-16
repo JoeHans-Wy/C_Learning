@@ -19,6 +19,15 @@
     <Filter Include="源文件\while语句练习">
       <UniqueIdentifier>{436aefec-b483-423c-b76c-9cc614fe4c8b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\homework">
+      <UniqueIdentifier>{d39f48ca-a0c7-4583-aab0-dd85093b4fc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\for循环练习">
+      <UniqueIdentifier>{6c4a9eb8-d1c8-4022-b138-ce76bd7eca4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\do_while循环练习">
+      <UniqueIdentifier>{41a8fae8-96d3-4d12-aa0e-6c5e26af209b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="测试源文件.c">
@@ -41,6 +50,42 @@
     </ClCompile>
     <ClCompile Include="Password.c">
       <Filter>源文件\while语句练习</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCII练习.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="出生日期输入输出.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="学生基本信息输入输出.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="printf的返回值.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="找最大数.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="计算球的体积.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="for循环源文件.c">
+      <Filter>源文件\for循环练习</Filter>
+    </ClCompile>
+    <ClCompile Include="for循环打印.c">
+      <Filter>源文件\for循环练习</Filter>
+    </ClCompile>
+    <ClCompile Include="嵌套for循环.c">
+      <Filter>源文件\for循环练习</Filter>
+    </ClCompile>
+    <ClCompile Include="do_while循环练习源.c">
+      <Filter>源文件\do_while循环练习</Filter>
+    </ClCompile>
+    <ClCompile Include="阶乘.c">
+      <Filter>源文件\for循环练习</Filter>
+    </ClCompile>
+    <ClCompile Include="有序数组查找.c">
+      <Filter>源文件\for循环练习</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
