@@ -87,5 +87,17 @@
     <ClCompile Include="有序数组查找.c">
       <Filter>源文件\for循环练习</Filter>
     </ClCompile>
+    <ClCompile Include="两边移动向中间汇聚.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="登录测试.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="猜数字.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="goto关机小程序.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
