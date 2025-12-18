@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\homework">
+      <UniqueIdentifier>{033f6184-8041-45e7-89c1-c8b4043d82ba}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="函数学习源文件.c">
@@ -23,6 +26,18 @@
     </ClCompile>
     <ClCompile Include="Swap.c">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断素数.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="判断闰年.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="二分查找.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="ADD.c">
+      <Filter>源文件\homework</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
