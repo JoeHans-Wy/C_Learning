@@ -16,17 +16,20 @@
     <Filter Include="源文件\homework">
       <UniqueIdentifier>{033f6184-8041-45e7-89c1-c8b4043d82ba}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\计算器">
+      <UniqueIdentifier>{1ef09537-aca3-4637-811b-2edc2e575602}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\计算器">
+      <UniqueIdentifier>{fc6c2914-4de6-4da0-9162-11da42fc471d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\初学习">
+      <UniqueIdentifier>{f3921b6e-c77a-425d-813e-de5449012936}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\函数递归">
+      <UniqueIdentifier>{55934bc4-8046-4ccd-8ae3-40c4db922b81}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="函数学习源文件.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="get_Max.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Swap.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="判断素数.c">
       <Filter>源文件\homework</Filter>
     </ClCompile>
@@ -36,8 +39,67 @@
     <ClCompile Include="二分查找.c">
       <Filter>源文件\homework</Filter>
     </ClCompile>
-    <ClCompile Include="ADD.c">
+    <ClCompile Include="READD.c">
       <Filter>源文件\homework</Filter>
     </ClCompile>
+    <ClCompile Include="计算器源.c">
+      <Filter>源文件\计算器</Filter>
+    </ClCompile>
+    <ClCompile Include="ADD.c">
+      <Filter>源文件\计算器</Filter>
+    </ClCompile>
+    <ClCompile Include="SUB.c">
+      <Filter>源文件\计算器</Filter>
+    </ClCompile>
+    <ClCompile Include="MUL.c">
+      <Filter>源文件\计算器</Filter>
+    </ClCompile>
+    <ClCompile Include="DIV.c">
+      <Filter>源文件\计算器</Filter>
+    </ClCompile>
+    <ClCompile Include="get_Max.c">
+      <Filter>源文件\初学习</Filter>
+    </ClCompile>
+    <ClCompile Include="Swap.c">
+      <Filter>源文件\初学习</Filter>
+    </ClCompile>
+    <ClCompile Include="函数学习源文件.c">
+      <Filter>源文件\初学习</Filter>
+    </ClCompile>
+    <ClCompile Include="声明和定义.c">
+      <Filter>源文件\初学习</Filter>
+    </ClCompile>
+    <ClCompile Include="顺序打印整型.c">
+      <Filter>源文件\函数递归</Filter>
+    </ClCompile>
+    <ClCompile Include="求字符串长度无临时变量.c">
+      <Filter>源文件\函数递归</Filter>
+    </ClCompile>
+    <ClCompile Include="阶乘.c">
+      <Filter>源文件\函数递归</Filter>
+    </ClCompile>
+    <ClCompile Include="斐波那契数列.c">
+      <Filter>源文件\函数递归</Filter>
+    </ClCompile>
+    <ClCompile Include="汉诺塔.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="跳台阶.c">
+      <Filter>源文件\homework</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ADD.h">
+      <Filter>头文件\计算器</Filter>
+    </ClInclude>
+    <ClInclude Include="DIV.h">
+      <Filter>头文件\计算器</Filter>
+    </ClInclude>
+    <ClInclude Include="MUL.h">
+      <Filter>头文件\计算器</Filter>
+    </ClInclude>
+    <ClInclude Include="SUB.h">
+      <Filter>头文件\计算器</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
