@@ -33,6 +33,15 @@
     <ClCompile Include="test.c">
       <Filter>源文件\三子棋</Filter>
     </ClCompile>
+    <ClCompile Include="字符串逆序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="非负整数之和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n的k次方.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="game.h">

@@ -18,3 +18,10 @@ void PlayerMove(char board[ROW][COL],int row, int col);
 
 //电脑下棋
 void ComputerMove(char board[ROW][COL],int row, int col);
+
+//玩家赢 - '*'
+//电脑赢 - '#'
+//平局 - 'Q'
+//继续 - 'C'
+char Iswin(char board[ROW][COL], int row, int col);
+
